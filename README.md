@@ -1,5 +1,5 @@
 # 1照片
-![me.jpg](https://upload-images.jianshu.io/upload_images/14956555-ed9f847b506c5f3a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![1.png](https://upload-images.jianshu.io/upload_images/14956555-8f0c63e069f954f2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 # 2 基本信息
 - 姓名：周国庆
